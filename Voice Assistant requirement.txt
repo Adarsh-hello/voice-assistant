@@ -1,0 +1,13 @@
+Dependencies:
+
+speechrecognition – Voice input
+
+pyttsx3 – Text to speech
+
+wikipedia – Wikipedia search
+
+pywhatkit – YouTube automation
+
+requests – For weather API
+
+pyaudio – Required for microphone
